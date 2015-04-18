@@ -1,0 +1,17 @@
+trenta-os-bootscreen (0.3) trusty; urgency=medium
+
+  * Added new background, logo, and a spinner for SA3
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Sat, 18 Apr 2015 17:09:00 -0400
+
+trenta-os-bootscreen (0.2) trusty; urgency=medium
+
+  * Logo Changed to Bear
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Wed, 27 Jun 2014 17:00:00 -0400
+
+trenta-os-bootscreen (0.1) trusty; urgency=medium
+
+  * Initial Release
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Tue, 17 Jun 2014 12:18:00 -0400

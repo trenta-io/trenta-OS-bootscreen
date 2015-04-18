@@ -1,0 +1,16 @@
+#!/bin/sh
+sudo update-initramfs -u
+sudo update-alternatives --config default.plymouth
+sudo chown -R root:root /lib/plymouth/themes/
+sudo chmod -R 755 /lib/plymouth/themes/
+sudo update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/Trenta-OS/Trenta-OS.plymouth 100
+sudo update-alternatives --set default.plymouth /lib/plymouth/themes/Trenta-OS/Trenta-OS.plymouth
+sudo update-initramfs -u
+echo "
+___ ____ ____ _  _ ___ ____    ____ ____ 
+ |  |__/ |___ |\ |  |  |__|    |  | [__  
+ |  |  \ |___ | \|  |  |  |    |__| ___] 
+                                         
+"
+echo "Open GNU Doors. Use Linux!"
+echo "Thanks for using Trenta OS!"

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Trenta Bootscreen
+Description=A theme that features a background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/ubuntu-spinner-logo
+ScriptFile=/lib/plymouth/themes/ubuntu-spinner-logo/ubuntu-spinner-logo.script

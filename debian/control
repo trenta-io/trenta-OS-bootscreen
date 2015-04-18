@@ -1,0 +1,13 @@
+Source: trenta-os-bootscreen
+Section: gnome
+Priority: extra
+Maintainer: Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.3
+Homepage: http://trentaos.org
+
+Package: trenta-os-bootscreen
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Trenta OS Bootscreen
+ A Beautiful Plymouth Bootscreen Crafted Specially for Trenta OS that features a Background image, the Trenta Logo and a Spinner
