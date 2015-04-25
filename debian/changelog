@@ -1,3 +1,9 @@
+trenta-os-bootscreen (0.3.2) trusty; urgency=medium
+
+  * Modified Install File
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Sat, 25 Apr 2015 13:19:00 -0400
+
 trenta-os-bootscreen (0.3.1) trusty; urgency=medium
 
   * Removed Login Screen Image
