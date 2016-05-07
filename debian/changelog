@@ -1,3 +1,10 @@
+trenta-os-bootscreen (0.4) trusty; urgency=medium
+
+  * New style for 3S release
+
+ -- Kevin Doyle (KevDoy) <email@kevdoy.me>  Sat, 07 May 2016 00:02:00 -0400
+
+
 trenta-os-bootscreen (0.3.2) trusty; urgency=medium
 
   * Modified Install File
