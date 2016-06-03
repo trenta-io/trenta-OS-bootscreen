@@ -1,10 +1,9 @@
 #!/bin/sh
-sudo update-initramfs -u
 sudo update-alternatives --config default.plymouth
-sudo chown -R root:root /lib/plymouth/themes/
-sudo chmod -R 755 /lib/plymouth/themes/
-sudo update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/Trenta-OS/Trenta-OS.plymouth 100
-sudo update-alternatives --set default.plymouth /lib/plymouth/themes/Trenta-OS/Trenta-OS.plymouth
+sudo chown -R root:root /usr/share/plymouth/themes/
+sudo chmod -R 755 /usr/share/plymouth/themes/
+sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/trenta-dark/trenta-dark.plymouth 100
+sudo update-alternatives --set default.plymouth /lib/plymouth/themes/trenta-dark/trenta-dark.plymouth
 sudo update-initramfs -u
 echo "
 ___ ____ ____ _  _ ___ ____    ____ ____ 

@@ -1,3 +1,9 @@
+trenta-bootscreen (0.4.2) xenial; urgency=medium
+
+  * Accounted for plymouth location change
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Fri, 03 Jun 2016 15:48:31 -0400
+
 trenta-bootscreen (0.4) xenial; urgency=medium
 
   * New style for 3S release

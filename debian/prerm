@@ -1,6 +1,6 @@
 #!/bin/bash
-sudo rm -rf /lib/plymouth/themes/Trenta-OS
+sudo rm -rf /usr/share/plymouth/themes/trenta-dark
 
-sudo update-alternatives --set default.plymouth /lib/plymouth/themes/ubuntu-logo/ubuntu-logo.plymouth
+sudo update-alternatives --set default.plymouth /usr/share/plymouth/themes/ubuntu-logo/ubuntu-logo.plymouth
 
 sudo update-initramfs -u
