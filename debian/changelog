@@ -1,4 +1,4 @@
-trenta-bootscreen (0.4.2) xenial; urgency=medium
+trenta-bootscreen (0.4.3) xenial; urgency=medium
 
   * Accounted for plymouth location change
 

@@ -3,7 +3,7 @@ sudo update-alternatives --config default.plymouth
 sudo chown -R root:root /usr/share/plymouth/themes/
 sudo chmod -R 755 /usr/share/plymouth/themes/
 sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/trenta-dark/trenta-dark.plymouth 100
-sudo update-alternatives --set default.plymouth /lib/plymouth/themes/trenta-dark/trenta-dark.plymouth
+sudo update-alternatives --set default.plymouth /usr/share/plymouth/themes/trenta-dark/trenta-dark.plymouth
 sudo update-initramfs -u
 echo "
 ___ ____ ____ _  _ ___ ____    ____ ____ 
