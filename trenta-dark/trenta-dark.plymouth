@@ -4,5 +4,5 @@ Description=A Plymouth theme for Trenta OS 3S
 ModuleName=script
 
 [script]
-ImageDir=/lib/plymouth/themes/trenta-dark
-ScriptFile=/lib/plymouth/themes/trenta-dark/trenta-dark.script
+ImageDir=/usr/share/plymouth/themes/trenta-dark
+ScriptFile=/usr/share/plymouth/themes/trenta-dark/trenta-dark.script

@@ -1,3 +1,9 @@
+trenta-bootscreen (0.4.3.1) xenial; urgency=medium
+
+  * FINALLY fixed for 16.04
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Sat, 04 Jun 2016 11:50:27 -0400
+
 trenta-bootscreen (0.4.3) xenial; urgency=medium
 
   * Accounted for plymouth location change
