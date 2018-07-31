@@ -1,6 +1,6 @@
 [Plymouth Theme]
 Name=Trenta-Bootscreen
-Description=A Plymouth theme for Trenta OS 3S
+Description=A Plymouth theme for Trenta OS
 ModuleName=script
 
 [script]
