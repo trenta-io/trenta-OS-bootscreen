@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=Trenta-Bootscreen-light
-Description=A Plymouth theme for Trenta OS
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/trenta-light
-ScriptFile=/usr/share/plymouth/themes/trenta-dark/trenta-light.script
